@@ -46,7 +46,25 @@ header{
         width: 50%;
         border-radius: 20px;
         margin-top: 30px;
-
-
+}
+nav {
+background-color: #8b3a3a;
+padding: 18px;
+text-align: center;
+position: sticky;
+top: 0;
+z-index: 1000;
 }
 
+nav a {
+color: white;
+text-decoration: none;
+margin: 0 25px;
+font-size: 18px;
+font-weight: bold;
+transition: 0.3s;
+}
+
+nav a:hover {
+color: #ffd6d6;
+}

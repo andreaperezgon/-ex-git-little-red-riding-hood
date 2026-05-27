@@ -48,7 +48,7 @@ header{
         margin-top: 30px;
 }
 nav {
-background-color: #8b3a3a;
+background-color:brown;
 padding: 18px;
 text-align: center;
 position: sticky;
@@ -57,7 +57,7 @@ z-index: 1000;
 }
 
 nav a {
-color: white;
+color: burlywood;
 text-decoration: none;
 margin: 0 25px;
 font-size: 18px;
@@ -66,5 +66,13 @@ transition: 0.3s;
 }
 
 nav a:hover {
-color: #ffd6d6;
+color: pink;
+}
+footer{
+    background-color:brown;
+    color:  whitesmoke;
+    text-align: center;
+    padding: 20px;
+    margin-top: 60px;
+    font-size: 12px;
 }

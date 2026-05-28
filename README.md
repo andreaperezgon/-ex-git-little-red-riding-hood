@@ -60,6 +60,10 @@ mi planificación de commits no ha sido la más precisa del mundo, pero empecé 
 
 ## RESULTADO FINAL
 
+![CRprimera](imagenes/CRprimera.png)
+![CRsegunda](imagenes/CRsegunda.png)
+![CRtercera](imagenes/CRtercera.png)
+![CRcuarta](imagenes/CRcuarta.png)
 
 
 
